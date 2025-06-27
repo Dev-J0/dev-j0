@@ -19,6 +19,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                        💻 About Me
+##                        💻 About Me
 
-                          Tech Stack: HTML, CSS, JavaScript, React
+##                          Tech Stack: HTML, CSS, JavaScript, React
+
+##                        🔭 Projects
+
+##                             **Designer projects:** 
+##                                [News Homepage](https://github.com/Dev-J0/news-homepage)
+                                
+ ##                               [So you wanna go to space?](https://dev-j0.github.io/so-you-wanna-go-to-space/)
+
+ ##                               [Loop](https://github.com/Dev-J0/loop-studios)
+
+ ##                                TBC
+
+ 
+          
