@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ##                        🔭 Projects (that are finished or not😅)
 
 ##                             **Designer projects:** 
-##                                [News Homepage](https://github.com/Dev-J0/news-homepage)
+##                                [News Homepage](https://dev-j0.github.io/news-homepage/)
                                 
  ##                               [So you wanna go to space?](https://dev-j0.github.io/so-you-wanna-go-to-space/)
 
- ##                               [Loop](https://github.com/Dev-J0/loop-studios)
+ ##                               [Loop](https://dev-j0.github.io/loop-studios/)
 
  ##                               [How to Make the Most of Your Free Time](https://dev-j0.github.io/learning-bootstrap/)
 
