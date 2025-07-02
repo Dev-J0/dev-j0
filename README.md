@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ##                          Tech Stack: HTML, CSS, JavaScript, React
 
-##                        🔭 Projects
+##                        🔭 Projects (that are finished or not😅)
 
 ##                             **Designer projects:** 
 ##                                [News Homepage](https://github.com/Dev-J0/news-homepage)
@@ -31,6 +31,22 @@ Here are some ideas to get you started:
  ##                               [So you wanna go to space?](https://dev-j0.github.io/so-you-wanna-go-to-space/)
 
  ##                               [Loop](https://github.com/Dev-J0/loop-studios)
+
+ ##                               [How to Make the Most of Your Free Time](https://dev-j0.github.io/learning-bootstrap/)
+
+
+ ##                            **Other projects**
+ ##                           [Things to be done](https://minimal-todolist.netlify.app/)
+
+ ##                           [CV maker](https://dev-j0.github.io/cv-app-fr/)
+
+ ##                           [Tiny Weather Site](https://tinyweathersite.netlify.app/)
+
+ ##                           [Rock Paper Scissors Game](https://dev-j0.github.io/rock-paper-scissors/)
+
+ ##                           [Restaurant page](https://dev-j0.github.io/restaurantpage/) 
+
+ ##                            
 
  ##                                TBC
 
